@@ -1,16 +1,37 @@
-## Hi there 👋
+# Qinkunex
 
-<!--
-**Qinkunex/Qinkunex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Human–Object Interaction & Interface Engineering**
 
-Here are some ideas to get you started:
+We explore new ways for people to interact with the objects, spaces, and systems around them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Built with Sanytron
+
+Qinkunex is a technology and design initiative behind selected Sanytron projects, exploring interfaces across smart home, desktop automation, AI, and connected devices.
+
+## Projects
+
+### 🎛️ Astrion
+A deeply integrated Home Assistant remote designed as a dedicated interface for the smart home.
+
+### 🖥️ UltraBarX
+A modular desktop command center for applications, automation, AI, and smart home control.
+
+### 🧩 RosCard
+A Home Assistant interface layer for Astrion.
+
+### 🛠️ UltraWorkspace
+The desktop configuration and control software for UltraBarX.
+
+## Community
+
+🌐 [Sanytron Hub](https://hub.sanytron.com)  
+💬 [Sanytron Forum](https://forum.sanytron.com)  
+🟥 [r/Sanytron](https://www.reddit.com/r/Sanytron/)  
+🎮 [Discord](https://discord.gg/dh2sQrWTH)  
+▶️ [YouTube](https://www.youtube.com/@SanytronHub)
+
+---
+
+**Built with the community.**
