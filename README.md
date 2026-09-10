@@ -29,7 +29,7 @@ The desktop configuration and control software for UltraBarX.
 🌐 [Sanytron Hub](https://hub.sanytron.com)  
 💬 [Sanytron Forum](https://forum.sanytron.com)  
 🟥 [r/Sanytron](https://www.reddit.com/r/Sanytron/)  
-🎮 [Discord](https://discord.gg/dh2sQrWTH)  
+🎮 [Discord](https://discord.gg/z629RRgHBJ)  
 ▶️ [YouTube](https://www.youtube.com/@SanytronHub)
 
 ---
